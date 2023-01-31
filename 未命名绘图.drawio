@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:20:52.276Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="w25tzgV_GwS7ruLFnNpe" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:21:18.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="qTzr75e465tJMwWg1UKg" version="20.8.13" type="github">
   <diagram name="第 1 页" id="9c1VEWERxylMTAAzkqru">
-    <mxGraphModel dx="810" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="1060" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="rtkXfg2roxZ0460Mr28F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rtkXfg2roxZ0460Mr28F-1" target="rtkXfg2roxZ0460Mr28F-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="304" y="562.5" as="sourcePoint" />
+            <mxPoint x="440" y="562.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="rtkXfg2roxZ0460Mr28F-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" parent="1" vertex="1">
-          <mxGeometry x="260" y="370" width="54" height="105" as="geometry" />
+        <mxCell id="rtkXfg2roxZ0460Mr28F-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rtkXfg2roxZ0460Mr28F-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/Apartments.svg;" parent="1" vertex="1">
-          <mxGeometry x="490" y="265" width="54" height="105" as="geometry" />
+        <mxCell id="rtkXfg2roxZ0460Mr28F-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
