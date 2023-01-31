@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T07:59:52.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="MnQ1Egb93LSniA748lFR" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:09:42.279Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.47" etag="VILofrpefHRl03zxlnpQ" version="20.8.13" type="github">
   <diagram name="第 1 页" id="EgVWHo0-7wXaNzdoyHJw">
     <mxGraphModel dx="1050" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="r6kU3v_14poT0Qgxv8o_-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="250" width="120" height="80" as="geometry" />
+        <mxCell id="r6kU3v_14poT0Qgxv8o_-1" value="" style="shape=mxgraph.cisco.directors.director-class_fibre_channel_director;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="51" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="r6kU3v_14poT0Qgxv8o_-2" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="290" width="120" height="80" as="geometry" />
+        <mxCell id="r6kU3v_14poT0Qgxv8o_-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="r6kU3v_14poT0Qgxv8o_-2" target="r6kU3v_14poT0Qgxv8o_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6kU3v_14poT0Qgxv8o_-2" value="" style="shape=mxgraph.cisco.directors.director-class_fibre_channel_director;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="51" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="r6kU3v_14poT0Qgxv8o_-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.01;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="r6kU3v_14poT0Qgxv8o_-3" target="r6kU3v_14poT0Qgxv8o_-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r6kU3v_14poT0Qgxv8o_-3" value="" style="shape=mxgraph.cisco.directors.director-class_fibre_channel_director;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="51" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
